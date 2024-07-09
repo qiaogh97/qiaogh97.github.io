@@ -4,19 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student (from Sep. 2021) at the Institute of Automation Chinese Academy of Sciences (CASIA), under the supervision of [Prof.Wang](https://nlpr.ia.ac.cn/iva/homepage/jqwang/index.htm).
+I received B.E. degree from Beijing Institute of Technology (BIT) from 2014 to 2018, M.S. degree from Tsinghua University from 2018 to 2021.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** embodied AI , Vision-and-Language Navigation
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Sep. 2022]** One paper about large-scale image-text dataset is accepted to NIPS 2022.
+- **[Jul. 2020]** One paper about **Structure Learning for 3D Shapes** is accepted to ECCV 2020.
+
 
 {% include_relative _includes/publications.md %}
 
