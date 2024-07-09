@@ -13,7 +13,7 @@ I received B.E. degree from Beijing Institute of Technology (BIT) from 2014 to 2
 
 ## News
 
-- **[Sep. 2022]** One paper about large-scale image-text dataset is accepted to NIPS 2022.
+- **[Sep. 2022]** One paper about **large-scale image-text dataset** is accepted to NIPS 2022.
 - **[Jul. 2020]** One paper about **Structure Learning for 3D Shapes** is accepted to ECCV 2020.
 
 
