@@ -9,7 +9,7 @@ main:
 
   - title: "TaiSu: A 166M Large-scale HighQuality Dataset for Chinese VisionLanguage Pre-training"
     authors: Yulong Liu, Guibo Zhu, Bin Zhu, Qi Song, Guojing Ge, Haoran Chen, <strong>Guanhui Qiao</strong>, Ru Peng, Lingxiang Wu, Jinqiao Wang
-    conference_short: NIPS
+    conference_short: NIPS2022
     conference: Conference and Workshop on Neural Information Processing Systems, <strong>(NIPS)</strong>, 2022.
     pdf: https://openreview.net/pdf?id=iAxH-ikIP0I
     code: https://github.com/ksOAn6g5/TaiSu
