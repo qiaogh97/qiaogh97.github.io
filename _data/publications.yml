@@ -1,5 +1,12 @@
 main:
 
+  - title: "Enhancing Visual Aligning and Grounding for Aerial Vision-and-Dialog Navigation"
+    authors: <strong>Guanhui Qiao</strong>, Dong Yi, Lingxiang Wu, Hanxiao Wu, Jinqiao Wang
+    conference_short: (IEEE)SPL2025
+    conference: IEEE Signal Processing Letters <strong>(SPL)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2003.05559.pdf
+    image: ./assets/img/vag.png
+
   - title: "SeqXY2SeqZ: Structure Learning for 3D Shapes by Sequentially Predicting 1D Occupancy Segments From 2D Coordinates"
     authors: Zhizhong Han, <strong>Guanhui Qiao</strong>, Yu-Shen Liu, Matthias Zwicker
     conference_short: ECCV2020
@@ -14,3 +21,4 @@ main:
     pdf: https://openreview.net/pdf?id=iAxH-ikIP0I
     code: https://github.com/ksOAn6g5/TaiSu
     image: ./assets/img/taisu.png
+
