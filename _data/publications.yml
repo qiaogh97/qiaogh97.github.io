@@ -4,7 +4,7 @@ main:
     authors: <strong>Guanhui Qiao</strong>, Dong Yi, Lingxiang Wu, Hanxiao Wu, Jinqiao Wang
     conference_short: (IEEE)SPL2025
     conference: IEEE Signal Processing Letters <strong>(SPL)</strong>, 2025.
-    pdf: https://arxiv.org/pdf/2003.05559.pdf
+    pdf: https://ieeexplore.ieee.org/document/11067948
     image: ./assets/img/vag.png
 
   - title: "SeqXY2SeqZ: Structure Learning for 3D Shapes by Sequentially Predicting 1D Occupancy Segments From 2D Coordinates"
