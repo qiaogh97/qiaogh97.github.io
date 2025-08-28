@@ -7,13 +7,6 @@ main:
     pdf: https://ieeexplore.ieee.org/document/11067948
     image: ./assets/img/vag.png
 
-  - title: "SeqXY2SeqZ: Structure Learning for 3D Shapes by Sequentially Predicting 1D Occupancy Segments From 2D Coordinates"
-    authors: Zhizhong Han, <strong>Guanhui Qiao</strong>, Yu-Shen Liu, Matthias Zwicker
-    conference_short: ECCV2020
-    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2003.05559.pdf
-    image: ./assets/img/seqxy2seqz.jpg
-
   - title: "TaiSu: A 166M Large-scale HighQuality Dataset for Chinese VisionLanguage Pre-training"
     authors: Yulong Liu, Guibo Zhu, Bin Zhu, Qi Song, Guojing Ge, Haoran Chen, <strong>Guanhui Qiao</strong>, Ru Peng, Lingxiang Wu, Jinqiao Wang
     conference_short: NIPS2022
@@ -22,3 +15,9 @@ main:
     code: https://github.com/ksOAn6g5/TaiSu
     image: ./assets/img/taisu.png
 
+  - title: "SeqXY2SeqZ: Structure Learning for 3D Shapes by Sequentially Predicting 1D Occupancy Segments From 2D Coordinates"
+    authors: Zhizhong Han, <strong>Guanhui Qiao</strong>, Yu-Shen Liu, Matthias Zwicker
+    conference_short: ECCV2020
+    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2020.
+    pdf: https://arxiv.org/pdf/2003.05559.pdf
+    image: ./assets/img/seqxy2seqz.jpg
