@@ -1,5 +1,11 @@
 main:
 
+  - title: "TextZGCA: Text-Guided Zero-Gated Cross-Attention for 3D Human Motion Prediction"
+    authors: <strong>Guanhui Qiao</strong>, Lu Zhou, Ding Jiang, Jinqiao Wang
+    conference_short: CIKM 2026
+    conference: The 35th ACM International Conference on Information and Knowledge Management <strong>(CIKM)</strong>, 2026.
+    image: ./assets/img/textzgca.png
+
   - title: "Enhancing Visual Aligning and Grounding for Aerial Vision-and-Dialog Navigation"
     authors: <strong>Guanhui Qiao</strong>, Dong Yi, Lingxiang Wu, Hanxiao Wu, Jinqiao Wang
     conference_short: (IEEE)SPL2025
