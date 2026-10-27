@@ -12,6 +12,7 @@ I received B.E. degree from Beijing Institute of Technology (BIT) from 2014 to 2
 - **Computer Vision:** Embodied AI , Vision-and-Language Navigation, Human Motion Prediction
 
 ## News
+- **[Oct. 2026]** Two papers about **Text-Guided Human Motion Prediction** are accepted to MMM 2027.
 - **[Aug. 2026]** One paper about **Human Motion Prediction** is accepted to CIKM 2026.
 - **[Jul. 2025]** One paper about **Aerial Vision-and-Language Navigation** is accepted to IEEE SPL 2025.
 - **[Sep. 2022]** One paper about **large-scale image-text dataset** is accepted to NIPS 2022.

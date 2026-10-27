@@ -1,5 +1,17 @@
 main:
 
+  - title: "Cooperative Caption Semantics across Past and Future for Human Motion Forecasting"
+    authors: <strong>Guanhui Qiao</strong>, Lu Zhou, Jinqiao Wang
+    conference_short: MMM 2027
+    conference: International Conference on Multimedia Modeling <strong>(MMM)</strong>, 2027.
+    image: ./assets/img/cocap-pf.png
+
+  - title: "Prototype-Guided Hyperbolic Inference with Mixed-Curvature Experts for Text-Guided Human Motion Prediction"
+    authors: <strong>Guanhui Qiao</strong>, Lu Zhou, Jinqiao Wang
+    conference_short: MMM 2027
+    conference: International Conference on Multimedia Modeling <strong>(MMM)</strong>, 2027.
+    image: ./assets/img/phi.png
+
   - title: "TextZGCA: Text-Guided Zero-Gated Cross-Attention for 3D Human Motion Prediction"
     authors: <strong>Guanhui Qiao</strong>, Lu Zhou, Ding Jiang, Jinqiao Wang
     conference_short: CIKM 2026
