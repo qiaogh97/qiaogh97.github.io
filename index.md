@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 I am a Ph.D. student (from Sep. 2021) at the Institute of Automation Chinese Academy of Sciences (CASIA), under the supervision of [Prof.Wang](https://nlpr.ia.ac.cn/iva/homepage/jqwang/index.htm).
-I received B.E. degree from Beijing Institute of Technology (BIT) from 2014 to 2018, M.S. degree from Tsinghua University from 2018 to 2021.
+I received my B.E. degree from Beijing Institute of Technology (BIT) from 2014 to 2018, and my M.S. degree from Tsinghua University from 2018 to 2021, under the supervision of [Prof. Yu-Shen Liu](https://yushen-liu.github.io/index_cn.html).
 
 ## Research Interests
 
